@@ -1,0 +1,30 @@
+table{
+    width: 600px;
+    margin: auto;
+ 
+}
+caption{
+    color: white;
+    background-color: #0D5188;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+thead{
+    color:black;
+    background-color: #66C5E3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+tbody{
+    background-color: #C7E7F3;
+    font-size: 12px;
+}
+td.cd{
+    color: #0D5188;
+}
+td.dc{
+    width: 10%;
+}
+td.sx{
+    width: 15%;
+}

@@ -1,0 +1,11 @@
+ 
+    p{
+        font-style: normal;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 12px;
+        text-align: center;
+        line-height: 2.0;
+        color: red;
+        border-width: thin;
+        border: solid;
+    }
